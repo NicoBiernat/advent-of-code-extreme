@@ -1,0 +1,19 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Unignore Makefiles
+!Makefile
+
+# Unignore Dockerfiles
+!Dockerfile
+
+### Above combination will ignore all files without extension ###
+
+# Ignore object files
+*.o
