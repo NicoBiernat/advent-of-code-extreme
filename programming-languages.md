@@ -1,7 +1,8 @@
 # Collection of programming languages ordered by my experience
 Languages in parentheses are the ones that I think are more difficult to solve the challenges with.
+[N]: Number of languages without paren
 
-## Good experience (just start writing):
+## Good experience [5] (just start writing):
 - [ ] Java
 - [ ] Go
 - [ ] JavaScript
@@ -9,7 +10,7 @@ Languages in parentheses are the ones that I think are more difficult to solve t
 - [ ] Erlang
 - [ ] (Scratch :D )
 
-## Some experience (used before, but need to google a lot):
+## Some experience [9] (used before, but need to google a lot):
 - [ ] Haskell
 - [ ] C
 - [ ] Lua
@@ -22,27 +23,30 @@ Languages in parentheses are the ones that I think are more difficult to solve t
 - [ ] PHP
 - [ ] (SQL)
 
-## No experience (but would be relatively easy to learn for the challenge):
+## No experience [7] (but would be relatively easy to learn for the challenge):
 - [ ] C#
 - [ ] Rust
-- [ ] Elixir
+- [x] Elixir
 - [ ] Nim
 - [ ] Kotlin
 - [ ] Ruby
 - [ ] Dart
 
-## No experience (but would probably more difficult to learn):
-- [ ] Scheme
+### Current Plan: Use all of the above and the ones below with a <-
+
+## No experience [3 + 6](but would probably more difficult to learn):
+- [ ] Scheme <-
 - [ ] LISP
-- [ ] Fortran
+- [ ] Fortran <-
 - [ ] Julia
 - [ ] R
-- [ ] Swift
+- [ ] Swift <-
 - [ ] Perl
 - [ ] (MATLAB) / Octave
 - [ ] Objective-C
 
 ### Bonus: Maybe use a complex framework instead of a new language
+### Maybe on 6th and 24th? ;-)
 
 #### Computing frameworks I have used before:
 
