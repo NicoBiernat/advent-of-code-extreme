@@ -3,7 +3,7 @@
 
 ## The rules are simple:
 
-Complete https://adventofcode.com/2020 with 24 different programming languages.
+Complete https://adventofcode.com/2020 with 25 different programming languages.
 
 ##### You can find a list of programming languages ordered by my experience with them [here](https://github.com/NicoBiernat/advent-of-code-extreme/blob/main/programming-languages.md).
 
@@ -23,6 +23,10 @@ This will do the following:
 
 If you want to "make" different targets, please take a look at the corresponding Makefile.
 
+# Templates
+For getting started faster in each language, I have written simple "Hello World" application templates  
+including Makefiles which use Docker to run them (as already described). You can find the templates [here](https://github.com/NicoBiernat/advent-of-code-extreme/tree/main/templates).
+
 # List of used programming languages
 
 - [x] Day 1: Pascal (FreePascal)
@@ -30,7 +34,7 @@ If you want to "make" different targets, please take a look at the corresponding
 - [x] Day 3: C# (.NET)
 - [ ] Day 4:
 - [ ] Day 5:
-- [ ] Day 6: C with CUDA / OpenCL (might be a bad idea when the challenge is based around string processing...)
+- [ ] Day 6: C with CUDA / OpenCL (might be a bad idea when the challenge is based around string processing... :-O ) or alternatively Java / Scala with Kafka Streams
 - [ ] Day 7:
 - [ ] Day 8:
 - [ ] Day 9:
@@ -48,5 +52,5 @@ If you want to "make" different targets, please take a look at the corresponding
 - [ ] Day 21:
 - [ ] Day 22:
 - [ ] Day 23:
-- [ ] Day 24: Java with Apache Flink
+- [ ] Day 24: Java / Scala with Apache Flink
 - [ ] Day 25:

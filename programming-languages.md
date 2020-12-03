@@ -1,6 +1,7 @@
 # Collection of programming languages ordered by my experience
-Languages in parentheses are the ones that I think are more difficult to solve the challenges with.
-[N]: Number of languages without parentheses
+Languages in parentheses are the ones that I think are more difficult to solve the challenges with.  
+They are not counted and also appear in the list of additional languages.  
+[N]: Number of languages without parentheses  
 
 ## Good experience [5] (just start writing):
 - [ ] Java
@@ -23,7 +24,7 @@ Languages in parentheses are the ones that I think are more difficult to solve t
 - [ ] PHP
 - [ ] (SQL)
 
-## No experience [7] (but would be relatively easy to learn for the challenge):
+## No experience [11] (but would be relatively easy to learn for the challenge):
 - [x] C#
 - [ ] Rust
 - [x] Elixir
@@ -31,19 +32,34 @@ Languages in parentheses are the ones that I think are more difficult to solve t
 - [ ] Kotlin
 - [ ] Ruby
 - [ ] Dart
-
-### Current Plan: Use all of the above and the ones below with a <-
-
-## No experience [3 + 6](but would probably more difficult to learn):
-- [ ] Scheme <-
-- [ ] LISP
-- [ ] Fortran <-
+- [ ] Swift
 - [ ] Julia
-- [ ] R
-- [ ] Swift <-
-- [ ] Perl
-- [ ] (MATLAB) / Octave
-- [ ] Objective-C
+- [ ] F#
+- [ ] Fortran
+
+### Additional languages to consider [20]
+- (Scratch)
+- (Prolog)
+- (SQL)
+- (PL/SQL)
+- Groovy
+- R
+- Scheme
+- (APL)
+- Lisp
+- OCaml
+- Perl
+- (MATLAB) / Octave
+- Objective-C
+- Visual Basic
+- (COBOL)
+- (Assembly)
+- (Logo)
+- D 
+- Ada
+- ML
+- some esoteric language
+- some language that is accidentally or surprisingly turing complete but not actually designed for general purpose
 
 ### Bonus: Maybe use a complex framework instead of a new language
 ### Maybe on 6th and 24th? ;-)
