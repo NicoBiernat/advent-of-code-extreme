@@ -17,5 +17,5 @@ dockerclean:
 	docker image rm elixir
 
 clean:
-	echo "Cleaning after the application for day 1: "
+	echo "Cleaning after the application for day 2: "
 	targetclean dockerclean
