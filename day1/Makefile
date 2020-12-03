@@ -2,7 +2,7 @@ all: compile run clean
 
 compile:
 	echo "Compiling the application for day 1: "
-	docker run --rm -v $(shell pwd):/app -w /app cyberdojofoundation/freepascal fpc /app/day1.pas
+	docker run --rm -v $(shell pwd):/app -w /app cyberdojofoundation/freepascal fpc day1.pas
 
 run:
 	echo "Running the application for day 1: "
