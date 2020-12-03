@@ -1,12 +1,10 @@
 all: compile run clean
 
 compile:
-	docker pull cyberdojofoundation/freepascal
 	echo "Compiling the application for day 1: "
 	docker run --rm -v $(shell pwd):/app -w /app cyberdojofoundation/freepascal fpc /app/day1.pas
 
 run:
-	docker pull cyberdojofoundation/freepascal
 	echo "Running the application for day 1: "
 	docker run --rm -v $(shell pwd):/app -w /app cyberdojofoundation/freepascal ./day1
 
