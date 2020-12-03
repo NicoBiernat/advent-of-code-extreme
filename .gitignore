@@ -17,3 +17,14 @@
 
 # Ignore object files
 *.o
+
+# Ignore Erlang / Elixir BEAM files
+*.beam
+
+# Ignore C# build files
+bin/
+obj/
+app.deps.json
+app.dll
+app.pdb
+app.runtimeconfig.json
