@@ -1,6 +1,6 @@
 # Collection of programming languages ordered by my experience
 Languages in parentheses are the ones that I think are more difficult to solve the challenges with.
-[N]: Number of languages without paren
+[N]: Number of languages without parentheses
 
 ## Good experience [5] (just start writing):
 - [ ] Java
