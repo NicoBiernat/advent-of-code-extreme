@@ -27,10 +27,10 @@ If you want to "make" different targets, please take a look at the corresponding
 
 - [x] Day 1: Pascal (FreePascal)
 - [x] Day 2: Elixir
-- [ ] Day 3:
+- [x] Day 3: C# (.NET)
 - [ ] Day 4:
 - [ ] Day 5:
-- [ ] Day 6: C with CUDA / OpenCL
+- [ ] Day 6: C with CUDA / OpenCL (might be a bad idea when the challenge is based around string processing...)
 - [ ] Day 7:
 - [ ] Day 8:
 - [ ] Day 9:

@@ -24,7 +24,7 @@ Languages in parentheses are the ones that I think are more difficult to solve t
 - [ ] (SQL)
 
 ## No experience [7] (but would be relatively easy to learn for the challenge):
-- [ ] C#
+- [x] C#
 - [ ] Rust
 - [x] Elixir
 - [ ] Nim
