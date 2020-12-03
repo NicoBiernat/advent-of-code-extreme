@@ -1,14 +1,14 @@
 all: compile run clean
 
 compile:
-	echo "Compiling the application for day 2: "
 	docker pull elixir
-	docker run --rm -v $(shell pwd):/app elixir /usr/local/bin/elixirc /app/day2.ex -o /app
+	echo "Compiling the application for day 2: "
+	docker run --rm -v $(shell pwd):/app -w /app elixir /usr/local/bin/elixirc day2.ex
 
 run:
-	echo "Running the application for day 2: "
 	docker pull elixir
-	docker run --rm -v $(shell pwd):/app elixir bash -c "cd /app && elixir day2.exs"
+	echo "Running the application for day 2: "
+	docker run --rm -v $(shell pwd):/app -w /app elixir elixir day2.exs
 
 targetclean:
 	rm -f Elixir.Day2.beam
