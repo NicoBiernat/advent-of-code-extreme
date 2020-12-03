@@ -49,3 +49,4 @@ If you want to "make" different targets, please take a look at the corresponding
 - [ ] Day 22:
 - [ ] Day 23:
 - [ ] Day 24: Java with Apache Flink
+- [ ] Day 25:
