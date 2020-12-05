@@ -30,7 +30,7 @@ They are not counted and also appear in the list of additional languages.
 - [x] Elixir
 - [ ] Nim
 - [ ] Kotlin
-- [ ] Ruby
+- [x] Ruby
 - [ ] Dart
 - [ ] Swift
 - [ ] Julia
