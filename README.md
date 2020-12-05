@@ -33,7 +33,7 @@ including Makefiles which use Docker to run them (as already described). You can
 - [x] Day 2: Elixir
 - [x] Day 3: C# (.NET)
 - [x] Day 4: Ruby
-- [ ] Day 5: 
+- [x] Day 5: PHP
 - [ ] Day 6: C with CUDA / OpenCL (might be a bad idea when the challenge is based around string processing... :-O ) or alternatively Java / Scala with Kafka Streams
 - [ ] Day 7:
 - [ ] Day 8:

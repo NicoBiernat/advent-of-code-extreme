@@ -21,7 +21,7 @@ They are not counted and also appear in the list of additional languages.
 - [x] Pascal
 - [ ] Scala
 - [ ] (Prolog)
-- [ ] PHP
+- [x] PHP
 - [ ] (SQL)
 
 ## No experience [11] (but would be relatively easy to learn for the challenge):
