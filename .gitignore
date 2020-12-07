@@ -28,3 +28,19 @@ app.deps.json
 app.dll
 app.pdb
 app.runtimeconfig.json
+
+# Ignore Gradle
+
+# remapped cache path
+cache/
+
+.gradle
+build/
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Cache of project
+.gradletasknamecache
+
+### Gradle Patch ###
+**/build/

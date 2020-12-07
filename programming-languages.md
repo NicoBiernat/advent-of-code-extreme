@@ -4,12 +4,12 @@ They are not counted and also appear in the list of additional languages.
 [N]: Number of languages without parentheses  
 
 ## Good experience [5] (just start writing):
-- [ ] Java
+- [x] Java
 - [ ] Go
 - [ ] JavaScript
 - [ ] Python
 - [ ] Erlang
-- [ ] (Scratch :D )
+- (Scratch :D )
 
 ## Some experience [9] (used before, but need to google a lot):
 - [ ] Haskell
@@ -20,9 +20,9 @@ They are not counted and also appear in the list of additional languages.
 - [ ] C++
 - [x] Pascal
 - [ ] Scala
-- [ ] (Prolog)
+- (Prolog)
 - [x] PHP
-- [ ] (SQL)
+- (SQL)
 
 ## No experience [11] (but would be relatively easy to learn for the challenge):
 - [x] C#
@@ -67,7 +67,7 @@ They are not counted and also appear in the list of additional languages.
 #### Computing frameworks I have used before:
 
 ##### Java Batch/Stream Processing:
-- [ ] Kafka Streams
+- [x] Kafka Streams
 - [ ] Apache Flink
 - [ ] Apache Hadoop MapReduce
 

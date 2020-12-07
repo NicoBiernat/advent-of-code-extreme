@@ -1,0 +1,34 @@
+apply plugin: 'application'
+apply plugin: 'distribution'
+
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+}
+
+sourceCompatibility = "1.11"
+targetCompatibility = "1.11"
+
+configurations.all {
+    // Check for updates every build
+    resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+}
+
+allprojects { 
+	repositories {
+	    jcenter()
+	    maven {
+	    	url "https://oss.sonatype.org/content/repositories/snapshots/"
+	    }
+	}
+}
+
+dependencies {
+    compile 'org.apache.kafka:kafka-streams:2.6.0'
+    compile 'org.slf4j:slf4j-simple:1.7.30'
+}
+
+mainClassName = "KafkaStreamsApp"
