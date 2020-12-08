@@ -28,7 +28,7 @@ They are not counted and also appear in the list of additional languages.
 - [x] C#
 - [ ] Rust
 - [x] Elixir
-- [ ] Nim
+- [x] Nim
 - [ ] Kotlin
 - [x] Ruby
 - [ ] Dart
