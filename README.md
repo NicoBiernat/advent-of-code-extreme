@@ -37,7 +37,7 @@ including Makefiles which use Docker to run them (as already described). You can
 - [x] Day 6: Java with Kafka Streams
 - [x] Day 7: Nim
 - [x] Day 8: Bash
-- [ ] Day 9:
+- [x] Day 9: Dart
 - [ ] Day 10
 - [ ] Day 11:
 - [ ] Day 12:
