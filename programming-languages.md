@@ -16,7 +16,7 @@ They are not counted and also appear in the list of additional languages.
 - [ ] C
 - [ ] Lua
 - [ ] TypeScript
-- [ ] Bash
+- [x] Bash
 - [ ] C++
 - [x] Pascal
 - [ ] Scala

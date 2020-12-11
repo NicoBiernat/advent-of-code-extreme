@@ -7,7 +7,7 @@ Complete https://adventofcode.com/2020 with 25 different programming languages.
 
 ##### You can find a list of programming languages ordered by my experience with them [here](https://github.com/NicoBiernat/advent-of-code-extreme/blob/main/programming-languages.md).
 
-I am using Docker and Makefiles to make the build process easier and to prevent 24 compilers and language runtimes being installed on my system (some of which I will probably not use that often).
+I am using Docker and Makefiles to make the build process easier and to prevent 25 compilers and language runtimes being installed on my system (some of which I will probably not use that often).
 So docker is required!
 
 Usage for day x:
@@ -36,7 +36,7 @@ including Makefiles which use Docker to run them (as already described). You can
 - [x] Day 5: PHP
 - [x] Day 6: Java with Kafka Streams
 - [x] Day 7: Nim
-- [ ] Day 8:
+- [x] Day 8: Bash
 - [ ] Day 9:
 - [ ] Day 10
 - [ ] Day 11:
