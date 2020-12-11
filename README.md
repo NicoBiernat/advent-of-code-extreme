@@ -38,7 +38,7 @@ including Makefiles which use Docker to run them (as already described). You can
 - [x] Day 7: Nim
 - [x] Day 8: Bash
 - [x] Day 9: Dart
-- [ ] Day 10
+- [x] Day 10: C
 - [ ] Day 11:
 - [ ] Day 12:
 - [ ] Day 13:

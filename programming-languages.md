@@ -13,7 +13,7 @@ They are not counted and also appear in the list of additional languages.
 
 ## Some experience [9] (used before, but need to google a lot):
 - [ ] Haskell
-- [ ] C
+- [x] C
 - [ ] Lua
 - [ ] TypeScript
 - [x] Bash
